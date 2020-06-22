@@ -9,7 +9,7 @@ A solar tracker is a mechanical-automatic device that through sensors can unders
 * Resistors
 * Jumper Wires
 # Schematics : 
-![Schematics](Solar Tracker.jpg)
+![Schematics](Solar_Tracker.jpg)
 # Code : 
 [Code Link](Solar_Tracker.ino)
 # Working Principle : 
